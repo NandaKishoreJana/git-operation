@@ -1,0 +1,41 @@
+
+USER STORY (TOPIC NAME: ADMITTING THE NEW PEOPLE'S IN OUR INTERNSHIP TO ENHANCE THEIR FUTURE)
+
+As a member of the internship program management team,
+I want to admit new interns to our program
+so that they can enhance their skills and knowledge for their future careers.
+
+**Acceptance Criteria**:
+
+1) The internship program must be well-defined and structured to provide valuable learning experiences.
+2) Clear guidelines for the application process must be provided to potential interns.
+3) The selection process should be fair and transparent, considering the qualifications and potential of the applicants.
+4) Onboarding procedures should be in place to welcome and orient the new interns to the program.
+5) Regular evaluations and feedback sessions should be conducted to monitor the progress of the interns and provide them with guidance.
+6) Opportunities for skill development, networking, and mentorship should be available to the interns throughout the program.
+7) The overall goal is to ensure that the interns gain practical experience and knowledge that will benefit them in their future careers.
+
+**Additional Notes**:
+
+1) The internship program should aim to create a positive and inclusive environment that fosters growth and learning.
+2) Collaboration with industry professionals and exposure to real-world projects can significantly enhance the value of the internship experience.
+3) Continuous improvement of the program based on feedback from both interns and mentors should be a priority to ensure its effectiveness.
+
+Registration Form:
+
+The details in the form is as follows:
+
+User Name:                        //write your full name
+Email ID:                         //your altenate email id
+Password:                         //your password (you have to remember it after putting)
+Collage name:                     //your college (Must all letters in Capital format)
+Course Selection:                 //course needed for your choice in this intership to complete
+D.O.B:                            //Date-Of-Birth
+Year of Passing:                  //year of passing from the college
+total amount:      Rs.4400/-      //the amount is fixed for six months
+
+              [SUBMIT]
+
+For any further information you can contact me in my whatsapp number: +91 7802978242. if you wanted to message also you can able send me 
+your doubts by sending your message in my whatsapp.
+
