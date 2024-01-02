@@ -1,0 +1,55 @@
+user stories for different personas in a Hospital Management System:
+
+Patient Persona:
+
+Name:
+Email Id:
+Date of Admission:
+Problem Facing:
+Contact Number:
+Address:
+
+As a patient, I want to be able to easily schedule appointments online, so I can choose a convenient time to see my doctor.
+As a patient, I want to be able to view my medical records and test results online, so I can keep track of my health information.
+As a patient, I want to receive notifications for upcoming appointments and medication reminders, so I don't miss any important healthcare activities.
+As a patient, I want to be able to communicate with my healthcare provider through secure messaging, so I can ask questions or discuss concerns without
+having to visit the hospital.
+
+Doctor Persona:
+
+Name:
+Years of Service:
+Cabin No.:
+Contact:
+Email Id:
+
+As a doctor, I want to be able to access patient records and medical history quickly, so I can provide accurate and efficient care.
+As a doctor, I want to be able to view my schedule and upcoming appointments, so I can manage my time effectively.
+As a doctor, I want to be able to prescribe medications and order tests electronically, so the process is faster and more accurate.
+As a doctor, I want to be able to communicate with other healthcare providers and specialists easily, so I can collaborate on patient care.
+
+Administrator Persona:
+
+Name:
+Contact No.:
+Email Id:
+
+As an administrator, I want to be able to manage user accounts and permissions, so I can control access to sensitive information.
+As an administrator, I want to be able to generate reports on hospital activities and performance, so I can analyze data and make informed decisions.
+As an administrator, I want to be able to manage hospital resources such as rooms, equipment, and staff schedules, so I can optimize operations.
+As an administrator, I want to be able to update the system with new policies and procedures, so the hospital stays compliant with regulations.
+
+Nurse Persona:
+
+Name:
+Contact No.:
+Email Id:
+Year of service:
+
+As a nurse, I want to be able to record patient vitals and update their charts easily, so I can provide accurate information to doctors.
+As a nurse, I want to be able to view patient schedules and upcoming tasks, so I can plan my workday efficiently.
+As a nurse, I want to be able to communicate with other nurses and healthcare providers, so we can coordinate patient care effectively.
+As a nurse, I want to be able to access educational resources and training materials, so I can stay updated on best practices in healthcare.
+
+These user stories cover a range of needs and activities for different roles within a Hospital Management System, from patients and doctors to administrators and nurses.
+Each story represents a specific requirement or goal that the system should fulfill to support its users effectively.
